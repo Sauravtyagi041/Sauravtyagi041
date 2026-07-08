@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Competitive Programming<br>👯 I’m looking to collaborate on Data Science Projects<br>🤝 I’m looking for help with App Development<br>🌱 I’m currently learning C++<br>💬 Ask me about how to be consistent <br>⚡ Fun fact I never miss my Diet of the Day
+🔭 I’m currently working on Competitive Programming<br>👯 I’m looking to collaborate on Data Science Projects<br>🤝 I’m looking for help with App Development<br>🌱 I’m currently learning JAVASCRIPT<br>💬 Ask me about how to be consistent <br>⚡ Fun fact I never miss my Diet of the Day
 
 
 ## 🌐 Socials:
